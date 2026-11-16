@@ -1,0 +1,4 @@
+import type { PanchangResult } from '../../types/api'
+import { formatLocalDateTime } from './panchangFormat'
+
+export function PanchangTimeline({result}:{result:PanchangResult}){return <section aria-labelledby="panchang-timeline-heading"><h2 id="panchang-timeline-heading" className="text-xl font-bold">Panchang timeline</h2><ol className="mt-4 space-y-0 border-l-2 border-[var(--border)] pl-5">{result.timeline.map((event,index)=><li key={`${event.event_type}-${event.utc}-${index}`} className="relative pb-5"><span className="absolute -left-[27px] top-1 size-3 rounded-full border-2 border-[var(--surface)] bg-[var(--primary)]"/><p className="font-bold">{event.label}</p><p className="text-sm text-[var(--muted)]">{formatLocalDateTime(event.local,result.location.timezone,event.local.slice(0,10)!==result.civil_date)}</p></li>)}</ol></section>}

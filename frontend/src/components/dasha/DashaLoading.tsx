@@ -1,0 +1,1 @@
+export function DashaLoading(){return <div role="status" className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-8 text-center text-[var(--muted)]"><span className="mx-auto mb-3 block size-8 animate-spin rounded-full border-4 border-[var(--border)] border-t-[var(--primary)]"/>Calculating the complete Vimshottari hierarchy…</div>}

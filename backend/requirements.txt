@@ -1,0 +1,24 @@
+# Direct runtime dependencies (exact versions recorded after installation)
+--no-binary SQLAlchemy
+fastapi==0.162.4
+uvicorn==0.54.0
+pydantic==2.14.3
+python-dotenv==1.2.4
+SQLAlchemy==2.1.8
+alembic==1.20.1
+PyMySQL==1.2.4
+cryptography==50.0.2
+email-validator==2.3.0
+tzdata==2026.6
+pyswisseph==2.10.3.2; python_version == "3.11"
+WeasyPrint==70.0
+Jinja2==3.1.6
+pypdf==6.21.4
+pdfplumber==0.11.10
+pdfminer-six==20260107
+
+# Direct development and test dependencies
+pytest==9.2.0
+httpx==0.28.1
+
+# Transitive dependencies are resolved in the virtual environment and are not listed here as direct project requirements.

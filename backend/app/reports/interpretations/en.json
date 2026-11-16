@@ -1,0 +1,573 @@
+{
+  "lagna": {
+    "1": {
+      "title": "Mesha (Aries) Lagna",
+      "text": "An Aries ascendant, ruled by Mars, is traditionally read as a direct, energetic and enterprising personality. Such natives are described as quick to begin new undertakings and willing to lead; the traditional counsel is to pair this drive with patience so that projects are carried through to completion."
+    },
+    "2": {
+      "title": "Vrishabha (Taurus) Lagna",
+      "text": "A Taurus ascendant, ruled by Venus, is traditionally associated with a steady, patient and dependable nature that values comfort, beauty and security. Natives are described as persistent and loyal; the traditional counsel is to remain open to change rather than holding too firmly to familiar ways."
+    },
+    "3": {
+      "title": "Mithuna (Gemini) Lagna",
+      "text": "A Gemini ascendant, ruled by Mercury, is traditionally read as curious, communicative and adaptable, with an interest in learning, writing and exchanging ideas. The traditional counsel is to focus this versatile mind on a few chosen pursuits so that its talents are not scattered."
+    },
+    "4": {
+      "title": "Karka (Cancer) Lagna",
+      "text": "A Cancer ascendant, ruled by the Moon, is traditionally associated with a caring, sensitive and protective temperament, closely connected to home, family and emotional bonds. Natives are described as intuitive and nurturing; the traditional counsel is to balance care for others with care for oneself."
+    },
+    "5": {
+      "title": "Simha (Leo) Lagna",
+      "text": "A Leo ascendant, ruled by the Sun, is traditionally read as confident, warm-hearted and dignified, with a natural inclination towards leadership and creative self-expression. The traditional counsel is to lead with generosity and to remain receptive to the views of others."
+    },
+    "6": {
+      "title": "Kanya (Virgo) Lagna",
+      "text": "A Virgo ascendant, ruled by Mercury, is traditionally associated with a careful, analytical and service-minded nature that notices detail and values order. Natives are described as practical and helpful; the traditional counsel is to temper high standards with kindness, including towards oneself."
+    },
+    "7": {
+      "title": "Tula (Libra) Lagna",
+      "text": "A Libra ascendant, ruled by Venus, is traditionally read as fair-minded, courteous and harmonious, with a strong sense of balance and an appreciation for partnership and the arts. The traditional counsel is to make decisions with confidence rather than waiting for perfect agreement."
+    },
+    "8": {
+      "title": "Vrishchika (Scorpio) Lagna",
+      "text": "A Scorpio ascendant, ruled by Mars, is traditionally associated with depth, determination and strong willpower, together with a capacity for research and inner transformation. Natives are described as loyal and perceptive; the traditional counsel is to channel this intensity into constructive goals."
+    },
+    "9": {
+      "title": "Dhanu (Sagittarius) Lagna",
+      "text": "A Sagittarius ascendant, ruled by Jupiter, is traditionally read as optimistic, principled and freedom-loving, with an interest in higher learning, travel and philosophy. The traditional counsel is to support broad vision with attention to practical details."
+    },
+    "10": {
+      "title": "Makara (Capricorn) Lagna",
+      "text": "A Capricorn ascendant, ruled by Saturn, is traditionally associated with discipline, responsibility and steady ambition, with results that grow through patient effort over time. Natives are described as reliable and organised; the traditional counsel is to allow room for rest and lightness alongside duty."
+    },
+    "11": {
+      "title": "Kumbha (Aquarius) Lagna",
+      "text": "An Aquarius ascendant, ruled by Saturn, is traditionally read as independent, thoughtful and humanitarian, with original ideas and an interest in community and social causes. The traditional counsel is to stay connected to close relationships while pursuing wider ideals."
+    },
+    "12": {
+      "title": "Meena (Pisces) Lagna",
+      "text": "A Pisces ascendant, ruled by Jupiter, is traditionally associated with a compassionate, imaginative and spiritually inclined nature, sensitive to the feelings of others. Natives are described as gentle and intuitive; the traditional counsel is to keep clear personal boundaries and practical routines."
+    }
+  },
+  "moon_rashi": {
+    "1": {
+      "title": "Moon in Mesha (Aries)",
+      "text": "With the Moon in Aries, the mind is traditionally described as quick, spirited and eager for action. Emotions rise and settle swiftly, and the native is said to feel most at ease when actively pursuing a goal."
+    },
+    "2": {
+      "title": "Moon in Vrishabha (Taurus)",
+      "text": "The Moon is traditionally considered exalted in Taurus, giving a calm, steady and contented mind. The native is said to find emotional security in stability, familiar surroundings and the simple pleasures of life."
+    },
+    "3": {
+      "title": "Moon in Mithuna (Gemini)",
+      "text": "With the Moon in Gemini, the mind is traditionally described as lively, curious and conversational. The native is said to process feelings by talking and thinking them through, and to enjoy variety and learning."
+    },
+    "4": {
+      "title": "Moon in Karka (Cancer)",
+      "text": "The Moon is traditionally at home in its own sign, Cancer, giving a caring, receptive and emotionally rich mind. The native is said to value family and belonging, and to have strong intuition and memory."
+    },
+    "5": {
+      "title": "Moon in Simha (Leo)",
+      "text": "With the Moon in Leo, the mind is traditionally described as warm, proud and generous. The native is said to feel fulfilled when appreciated and when expressing creativity, loyalty and leadership."
+    },
+    "6": {
+      "title": "Moon in Kanya (Virgo)",
+      "text": "With the Moon in Virgo, the mind is traditionally described as observant, orderly and helpful. The native is said to find comfort in being useful and organised, and is advised not to worry over small imperfections."
+    },
+    "7": {
+      "title": "Moon in Tula (Libra)",
+      "text": "With the Moon in Libra, the mind is traditionally described as gracious, sociable and seeking harmony. The native is said to feel settled in balanced relationships and pleasant, fair surroundings."
+    },
+    "8": {
+      "title": "Moon in Vrishchika (Scorpio)",
+      "text": "The Moon is traditionally considered debilitated in Scorpio, giving deep, intense and private emotions. Tradition describes this placement as one of great inner strength and resilience, gained through reflection and emotional honesty."
+    },
+    "9": {
+      "title": "Moon in Dhanu (Sagittarius)",
+      "text": "With the Moon in Sagittarius, the mind is traditionally described as hopeful, frank and seeking meaning. The native is said to be uplifted by learning, faith, travel and open horizons."
+    },
+    "10": {
+      "title": "Moon in Makara (Capricorn)",
+      "text": "With the Moon in Capricorn, the mind is traditionally described as composed, practical and responsible. The native is said to express care through dependable action, and is advised to share feelings more openly."
+    },
+    "11": {
+      "title": "Moon in Kumbha (Aquarius)",
+      "text": "With the Moon in Aquarius, the mind is traditionally described as detached, inventive and humane. The native is said to value friendship, fairness and the freedom to think independently."
+    },
+    "12": {
+      "title": "Moon in Meena (Pisces)",
+      "text": "With the Moon in Pisces, the mind is traditionally described as gentle, empathetic and imaginative. The native is said to be drawn to devotion, art and service, and is advised to rest and recharge regularly."
+    }
+  },
+  "nakshatra": {
+    "1": {
+      "title": "Ashwini Nakshatra",
+      "text": "Ashwini, ruled by Ketu and associated with the Ashwini Kumaras, the divine physicians, is traditionally linked with swiftness, initiative and a healing touch. Natives are described as energetic and eager to help, quick to start new things."
+    },
+    "2": {
+      "title": "Bharani Nakshatra",
+      "text": "Bharani, ruled by Venus and associated with Yama, is traditionally linked with endurance, responsibility and the capacity to carry heavy duties. Natives are described as determined, creative and strongly principled."
+    },
+    "3": {
+      "title": "Krittika Nakshatra",
+      "text": "Krittika, ruled by the Sun and associated with Agni, the sacred fire, is traditionally linked with sharpness, purity of purpose and courage. Natives are described as decisive and protective, with a clear sense of right and wrong."
+    },
+    "4": {
+      "title": "Rohini Nakshatra",
+      "text": "Rohini, ruled by the Moon and associated with Prajapati the creator, is traditionally linked with growth, beauty and creativity. Natives are described as charming, artistic and able to make things flourish."
+    },
+    "5": {
+      "title": "Mrigashira Nakshatra",
+      "text": "Mrigashira, ruled by Mars and associated with Soma, is traditionally linked with curiosity, gentleness and the spirit of searching. Natives are described as inquisitive, sociable and fond of travel and learning."
+    },
+    "6": {
+      "title": "Ardra Nakshatra",
+      "text": "Ardra, ruled by Rahu and associated with Rudra, is traditionally linked with transformation through effort and a keen, questioning intellect. Natives are described as resilient and able to renew themselves after difficulty."
+    },
+    "7": {
+      "title": "Punarvasu Nakshatra",
+      "text": "Punarvasu, ruled by Jupiter and associated with Aditi, the boundless mother, is traditionally linked with renewal, optimism and the return of good fortune. Natives are described as generous, contented and forgiving."
+    },
+    "8": {
+      "title": "Pushya Nakshatra",
+      "text": "Pushya, ruled by Saturn and associated with Brihaspati, is traditionally regarded as one of the most auspicious nakshatras, linked with nourishment and support. Natives are described as caring, dutiful and spiritually inclined."
+    },
+    "9": {
+      "title": "Ashlesha Nakshatra",
+      "text": "Ashlesha, ruled by Mercury and associated with the Nagas, is traditionally linked with perception, insight and strategic thinking. Natives are described as intuitive and persuasive, with a good understanding of people."
+    },
+    "10": {
+      "title": "Magha Nakshatra",
+      "text": "Magha, ruled by Ketu and associated with the Pitris, the ancestors, is traditionally linked with heritage, dignity and leadership. Natives are described as respectful of tradition and capable of positions of honour."
+    },
+    "11": {
+      "title": "Purva Phalguni Nakshatra",
+      "text": "Purva Phalguni, ruled by Venus and associated with Bhaga, is traditionally linked with enjoyment, creativity and affectionate relationships. Natives are described as warm, artistic and good company."
+    },
+    "12": {
+      "title": "Uttara Phalguni Nakshatra",
+      "text": "Uttara Phalguni, ruled by the Sun and associated with Aryaman, is traditionally linked with reliability, generosity and lasting partnerships. Natives are described as helpful, honourable and steady in commitment."
+    },
+    "13": {
+      "title": "Hasta Nakshatra",
+      "text": "Hasta, ruled by the Moon and associated with Savitar, is traditionally linked with skilful hands, practicality and resourcefulness. Natives are described as clever, hardworking and good at crafts and problem-solving."
+    },
+    "14": {
+      "title": "Chitra Nakshatra",
+      "text": "Chitra, ruled by Mars and associated with Vishvakarma, the celestial architect, is traditionally linked with design, beauty and brilliance. Natives are described as creative, stylish and keen to build things of lasting value."
+    },
+    "15": {
+      "title": "Swati Nakshatra",
+      "text": "Swati, ruled by Rahu and associated with Vayu, the wind, is traditionally linked with independence, flexibility and balance. Natives are described as adaptable, fair-minded and capable in trade and diplomacy."
+    },
+    "16": {
+      "title": "Vishakha Nakshatra",
+      "text": "Vishakha, ruled by Jupiter and associated with Indra and Agni, is traditionally linked with purpose, ambition and perseverance. Natives are described as goal-focused and able to achieve much through sustained effort."
+    },
+    "17": {
+      "title": "Anuradha Nakshatra",
+      "text": "Anuradha, ruled by Saturn and associated with Mitra, the deity of friendship, is traditionally linked with devotion, cooperation and loyalty. Natives are described as friendly, disciplined and successful in group endeavours."
+    },
+    "18": {
+      "title": "Jyeshtha Nakshatra",
+      "text": "Jyeshtha, ruled by Mercury and associated with Indra, is traditionally linked with seniority, protection and responsibility. Natives are described as capable, resourceful and willing to take charge."
+    },
+    "19": {
+      "title": "Mula Nakshatra",
+      "text": "Mula, ruled by Ketu and associated with Nirriti, is traditionally linked with getting to the root of things, research and deep inquiry. Natives are described as investigative, sincere and interested in fundamental truths."
+    },
+    "20": {
+      "title": "Purva Ashadha Nakshatra",
+      "text": "Purva Ashadha, ruled by Venus and associated with Apas, the waters, is traditionally linked with conviction, enthusiasm and an invincible spirit. Natives are described as persuasive, proud and inspiring to others."
+    },
+    "21": {
+      "title": "Uttara Ashadha Nakshatra",
+      "text": "Uttara Ashadha, ruled by the Sun and associated with the Vishvadevas, is traditionally linked with lasting achievement and principled conduct. Natives are described as steady, ethical and respected for their integrity."
+    },
+    "22": {
+      "title": "Shravana Nakshatra",
+      "text": "Shravana, ruled by the Moon and associated with Vishnu, is traditionally linked with listening, learning and connecting people. Natives are described as attentive, knowledgeable and good teachers or advisers."
+    },
+    "23": {
+      "title": "Dhanishta Nakshatra",
+      "text": "Dhanishta, ruled by Mars and associated with the Ashta Vasus, is traditionally linked with rhythm, music and abundance. Natives are described as energetic, sociable and generous."
+    },
+    "24": {
+      "title": "Shatabhisha Nakshatra",
+      "text": "Shatabhisha, ruled by Rahu and associated with Varuna, is traditionally linked with healing, research and independent thought. Natives are described as reserved, scientific in outlook and devoted to truth."
+    },
+    "25": {
+      "title": "Purva Bhadrapada Nakshatra",
+      "text": "Purva Bhadrapada, ruled by Jupiter and associated with Aja Ekapada, is traditionally linked with idealism, intensity and transformation. Natives are described as earnest, visionary and committed to their beliefs."
+    },
+    "26": {
+      "title": "Uttara Bhadrapada Nakshatra",
+      "text": "Uttara Bhadrapada, ruled by Saturn and associated with Ahir Budhnya, is traditionally linked with depth, patience and wisdom. Natives are described as calm, self-controlled and supportive of others."
+    },
+    "27": {
+      "title": "Revati Nakshatra",
+      "text": "Revati, ruled by Mercury and associated with Pushan, the protector of journeys, is traditionally linked with nurturing, guidance and gentle completion. Natives are described as kind, refined and caring towards all beings."
+    }
+  },
+  "mahadasha": {
+    "sun": {
+      "title": "Surya (Sun) Mahadasha",
+      "text": "The six-year Sun period is traditionally associated with self-confidence, recognition, authority and a stronger sense of purpose. Tradition advises using this time to take responsibility and build a respected position, while remaining humble."
+    },
+    "moon": {
+      "title": "Chandra (Moon) Mahadasha",
+      "text": "The ten-year Moon period is traditionally associated with emotional life, home, family and public connection. Tradition describes it as a time when nurturing relationships and a peaceful mind bring the best results."
+    },
+    "mars": {
+      "title": "Mangal (Mars) Mahadasha",
+      "text": "The seven-year Mars period is traditionally associated with energy, courage, initiative and matters of land and siblings. Tradition advises directing this drive into disciplined effort and avoiding haste or conflict."
+    },
+    "rahu": {
+      "title": "Rahu Mahadasha",
+      "text": "The eighteen-year Rahu period is traditionally associated with ambition, unconventional paths, new technologies and contact with foreign places or people. Tradition advises clear goals and ethical choices during this period of change."
+    },
+    "jupiter": {
+      "title": "Guru (Jupiter) Mahadasha",
+      "text": "The sixteen-year Jupiter period is traditionally associated with growth, wisdom, learning, teaching and family blessings. Tradition regards it as favourable for study, guidance from mentors and spiritual development."
+    },
+    "saturn": {
+      "title": "Shani (Saturn) Mahadasha",
+      "text": "The nineteen-year Saturn period is traditionally associated with discipline, hard work, responsibility and results that come steadily through persistence. Tradition advises patience, service and consistent effort."
+    },
+    "mercury": {
+      "title": "Budha (Mercury) Mahadasha",
+      "text": "The seventeen-year Mercury period is traditionally associated with learning, communication, commerce and intellectual pursuits. Tradition regards it as favourable for education, writing and skill development."
+    },
+    "ketu": {
+      "title": "Ketu Mahadasha",
+      "text": "The seven-year Ketu period is traditionally associated with introspection, detachment, spiritual inquiry and letting go of what is no longer needed. Tradition advises reflection, simplicity and inner practice."
+    },
+    "venus": {
+      "title": "Shukra (Venus) Mahadasha",
+      "text": "The twenty-year Venus period is traditionally associated with relationships, comfort, beauty, the arts and enjoyment of life. Tradition advises enjoying these blessings with balance and gratitude."
+    }
+  },
+  "house_title": "{planet} in the {house} house",
+  "planet_names": {
+    "sun": "Sun",
+    "moon": "Moon",
+    "mars": "Mars",
+    "mercury": "Mercury",
+    "jupiter": "Jupiter",
+    "venus": "Venus",
+    "saturn": "Saturn",
+    "rahu": "Rahu",
+    "ketu": "Ketu"
+  },
+  "house_ordinals": {
+    "1": "1st",
+    "2": "2nd",
+    "3": "3rd",
+    "4": "4th",
+    "5": "5th",
+    "6": "6th",
+    "7": "7th",
+    "8": "8th",
+    "9": "9th",
+    "10": "10th",
+    "11": "11th",
+    "12": "12th"
+  },
+  "planet_house": {
+    "sun": {
+      "1": "The Sun in the 1st house is traditionally linked with a strong sense of self, confidence and natural authority. Tradition advises balancing self-assurance with humility and listening to others.",
+      "2": "The Sun in the 2nd house is traditionally associated with dignified speech, strong family values and pride in one's heritage. Tradition advises speaking with warmth as well as authority.",
+      "3": "The Sun in the 3rd house is traditionally regarded as a strong placement for courage, initiative and confident communication. Natives are described as self-reliant and enterprising.",
+      "4": "The Sun in the 4th house is traditionally associated with a strong attachment to home, homeland and family responsibility. Tradition advises cultivating calm and patience within the household.",
+      "5": "The Sun in the 5th house is traditionally linked with intelligence, creativity and pride in one's children or creations. Tradition advises guiding others with encouragement rather than control.",
+      "6": "The Sun in the 6th house is traditionally considered strong for overcoming competition and obstacles through determined effort. Natives are described as disciplined and dutiful in service.",
+      "7": "The Sun in the 7th house is traditionally associated with strong-willed partners and an active public life. Tradition advises mutual respect and shared decision-making in relationships.",
+      "8": "The Sun in the 8th house is traditionally linked with interest in research, hidden knowledge and inner transformation. Tradition advises patience and a steady routine during periods of change.",
+      "9": "The Sun in the 9th house is traditionally associated with strong principles, respect for teachers and elders, and interest in philosophy and dharma. Natives are described as idealistic and guided by conviction.",
+      "10": "The Sun is traditionally said to gain directional strength in the 10th house, linked with ambition, recognition and leadership in one's work. Tradition advises using authority fairly and responsibly.",
+      "11": "The Sun in the 11th house is traditionally regarded as favourable for fulfilling aspirations with support from influential friends and networks. Natives are described as goal-oriented and respected in groups.",
+      "12": "The Sun in the 12th house is traditionally linked with introspection, spiritual interests and connection with distant or foreign places. Tradition advises regular rest and quiet reflection."
+    },
+    "moon": {
+      "1": "The Moon in the 1st house is traditionally associated with a gentle, expressive and sensitive personality whose moods are visible to others. Natives are described as approachable and caring.",
+      "2": "The Moon in the 2nd house is traditionally linked with pleasant speech, attachment to family and a love of good food and comfort. Tradition regards it as supportive of family harmony.",
+      "3": "The Moon in the 3rd house is traditionally associated with an imaginative, communicative mind and close ties with siblings. Natives are described as curious and fond of short journeys and writing.",
+      "4": "The Moon is traditionally said to gain directional strength in the 4th house, linked with emotional security, a nurturing home and closeness to the mother. Natives are described as contented and caring.",
+      "5": "The Moon in the 5th house is traditionally linked with creativity, emotional intelligence and affection for children and students. Natives are described as imaginative and devotional.",
+      "6": "The Moon in the 6th house is traditionally associated with a mind focused on service, routines and solving everyday problems. Tradition advises protecting emotional balance amid daily pressures.",
+      "7": "The Moon in the 7th house is traditionally linked with a caring, emotionally responsive approach to partnership and an easy rapport with the public. Natives are described as diplomatic and sociable.",
+      "8": "The Moon in the 8th house is traditionally associated with deep emotions, strong intuition and interest in the mysteries of life. Tradition advises calming practices and open, trusted conversations.",
+      "9": "The Moon in the 9th house is traditionally linked with faith, a love of learning and travel, and respect for spiritual teachers. Natives are described as kind-hearted and principled.",
+      "10": "The Moon in the 10th house is traditionally associated with public visibility, adaptability at work and work that involves people or care. Natives are described as responsive to the needs of others.",
+      "11": "The Moon in the 11th house is traditionally regarded as favourable for friendships, community support and the fulfilment of wishes. Natives are described as popular and well connected.",
+      "12": "The Moon in the 12th house is traditionally linked with a rich inner life, imagination and spiritual or charitable inclinations. Tradition advises good rest and time for quiet reflection."
+    },
+    "mars": {
+      "1": "Mars in the 1st house is traditionally associated with physical energy, courage and a direct, decisive manner. Tradition advises channelling this vigour into sport or disciplined work and practising patience.",
+      "2": "Mars in the 2nd house is traditionally linked with forthright speech and a strong wish to protect family. Tradition advises speaking with care so that frankness is not taken as harshness.",
+      "3": "Mars in the 3rd house is traditionally regarded as a strong placement for courage, initiative and enterprise. Natives are described as bold, energetic and willing to take on challenges.",
+      "4": "Mars in the 4th house is traditionally associated with energy directed towards home, land and property matters. Tradition advises patience and gentle communication within the household.",
+      "5": "Mars in the 5th house is traditionally linked with a quick, competitive intellect and enthusiasm for sport, strategy and creative challenges. Tradition advises patience in learning and with children.",
+      "6": "Mars in the 6th house is traditionally regarded as a strong placement for overcoming rivals, obstacles and competition through determined effort. Natives are described as hardworking and resilient.",
+      "7": "Mars in the 7th house is traditionally associated with energetic, assertive partnerships and dynamic public dealings. Tradition advises patience, compromise and calm discussion in relationships.",
+      "8": "Mars in the 8th house is traditionally linked with intensity, research ability and interest in hidden or technical subjects. Tradition advises caution, steady routines and avoiding unnecessary risks.",
+      "9": "Mars in the 9th house is traditionally associated with strong convictions, adventurous travel and active pursuit of one's beliefs. Tradition advises respect for differing views and for teachers.",
+      "10": "Mars is traditionally said to gain directional strength in the 10th house, linked with ambition, leadership and achievement through action. Natives are described as driven and capable in demanding roles.",
+      "11": "Mars in the 11th house is traditionally regarded as favourable for achieving goals through effort, with support from energetic friends and elder siblings. Natives are described as ambitious and enterprising.",
+      "12": "Mars in the 12th house is traditionally linked with energy turned inward, towards spiritual discipline, distant places or behind-the-scenes work. Tradition advises good rest and mindful use of resources."
+    },
+    "mercury": {
+      "1": "Mercury is traditionally said to gain directional strength in the 1st house, linked with a quick, witty and youthful personality. Natives are described as articulate, curious and adaptable.",
+      "2": "Mercury in the 2nd house is traditionally associated with skilled speech, a good memory and an aptitude for languages, accounts or teaching. Natives are described as persuasive and knowledgeable.",
+      "3": "Mercury in the 3rd house is traditionally linked with talent in writing, media, communication and short travels. Natives are described as clever, curious and well informed.",
+      "4": "Mercury in the 4th house is traditionally associated with a love of learning, a well-read household and comfort through study. Natives are described as thoughtful and intellectually engaged at home.",
+      "5": "Mercury in the 5th house is traditionally linked with sharp intelligence, analytical skill and creativity with words, puzzles or numbers. Natives are described as bright students and inventive thinkers.",
+      "6": "Mercury in the 6th house is traditionally associated with practical problem-solving, attention to detail and skill in analysis or administration. Natives are described as efficient and methodical.",
+      "7": "Mercury in the 7th house is traditionally linked with intelligent, communicative partners and skill in negotiation, trade and agreements. Natives are described as diplomatic and youthful in outlook.",
+      "8": "Mercury in the 8th house is traditionally associated with a research-oriented mind and interest in investigation or hidden knowledge. Natives are described as perceptive and analytical.",
+      "9": "Mercury in the 9th house is traditionally linked with interest in philosophy, higher education, publishing and learned discussion. Natives are described as open-minded and fond of study.",
+      "10": "Mercury in the 10th house is traditionally associated with work involving communication, commerce, technology or teaching. Natives are described as versatile and skilled at managing many tasks.",
+      "11": "Mercury in the 11th house is traditionally regarded as favourable for networking, intelligent friendships and fulfilling goals through skill. Natives are described as sociable and resourceful.",
+      "12": "Mercury in the 12th house is traditionally linked with an imaginative, contemplative mind and interest in foreign languages, research or spiritual study. Tradition advises keeping thoughts organised and grounded."
+    },
+    "jupiter": {
+      "1": "Jupiter is traditionally said to gain directional strength in the 1st house, linked with wisdom, optimism, good judgement and a dignified presence. Natives are described as generous and respected.",
+      "2": "Jupiter in the 2nd house is traditionally associated with truthful, wise speech and strong family values. Natives are described as knowledgeable and supportive of family traditions.",
+      "3": "Jupiter in the 3rd house is traditionally linked with thoughtful communication, good relations with siblings and a principled approach to effort. Tradition advises combining wisdom with initiative.",
+      "4": "Jupiter in the 4th house is traditionally associated with a contented home life, respect for the mother and comfort in learning. Natives are described as peaceful, well-meaning and hospitable.",
+      "5": "Jupiter in the 5th house is traditionally regarded as a very favourable placement for intelligence, learning, devotion and joy through children and students. Natives are described as wise advisers.",
+      "6": "Jupiter in the 6th house is traditionally associated with service, helpfulness and solving problems through knowledge. Tradition advises moderation in habits and fairness in disputes.",
+      "7": "Jupiter in the 7th house is traditionally linked with wise, supportive partners and principled dealings with the public. Natives are described as fair-minded and good counsellors.",
+      "8": "Jupiter in the 8th house is traditionally associated with interest in deep subjects such as philosophy, research and the mysteries of life. Tradition describes it as supportive during periods of transformation.",
+      "9": "Jupiter in the 9th house is traditionally regarded as one of its best placements, linked with faith, higher learning, good teachers and good fortune. Natives are described as righteous and blessed.",
+      "10": "Jupiter in the 10th house is traditionally associated with respected work, ethical leadership and roles in teaching, advising or guidance. Natives are described as honourable in their profession.",
+      "11": "Jupiter in the 11th house is traditionally regarded as favourable for the fulfilment of aspirations, with support from wise and well-placed friends. Natives are described as generous and well connected.",
+      "12": "Jupiter in the 12th house is traditionally linked with spirituality, charity, meditation and connection with distant places. Natives are described as compassionate and drawn to selfless service."
+    },
+    "venus": {
+      "1": "Venus in the 1st house is traditionally associated with charm, grace and an appreciation for beauty and the arts. Natives are described as pleasant, refined and well liked.",
+      "2": "Venus in the 2nd house is traditionally linked with sweet speech, a love of music and fine things, and a harmonious family life. Natives are described as gracious and pleasant company.",
+      "3": "Venus in the 3rd house is traditionally associated with artistic communication, creative hobbies and affectionate ties with siblings. Natives are described as charming and expressive.",
+      "4": "Venus is traditionally said to gain directional strength in the 4th house, linked with a beautiful, comfortable home and emotional contentment. Natives are described as gentle and family-loving.",
+      "5": "Venus in the 5th house is traditionally linked with romance, creativity, artistic talent and joy in children and entertainment. Natives are described as affectionate and imaginative.",
+      "6": "Venus in the 6th house is traditionally associated with diplomacy in daily work and service through care, the arts or hospitality. Tradition advises moderation in indulgence and kindness at work.",
+      "7": "Venus in the 7th house is traditionally linked with affectionate, attractive partnerships and a natural gift for harmony with others. Tradition advises keeping relationships balanced and grounded.",
+      "8": "Venus in the 8th house is traditionally associated with deep, private affections and interest in hidden arts or mystical subjects. Tradition advises trust and openness in close relationships.",
+      "9": "Venus in the 9th house is traditionally linked with devotion, appreciation of culture and art, and enjoyable travel. Natives are described as gracious and guided by refined ideals.",
+      "10": "Venus in the 10th house is traditionally associated with work in the arts, design, beauty, hospitality or diplomacy. Natives are described as pleasant and popular in their workplace.",
+      "11": "Venus in the 11th house is traditionally regarded as favourable for friendships, social enjoyment and the fulfilment of wishes. Natives are described as sociable and admired in groups.",
+      "12": "Venus in the 12th house is traditionally linked with enjoyment of comfort and retreat, and with spiritual or artistic devotion. Tradition advises balance between pleasure and inner discipline."
+    },
+    "saturn": {
+      "1": "Saturn in the 1st house is traditionally associated with seriousness, endurance and a mature outlook from an early age. Tradition advises patience with oneself, as strength grows steadily over time.",
+      "2": "Saturn in the 2nd house is traditionally linked with careful, measured speech and a disciplined approach to family responsibilities. Natives are described as practical and dependable.",
+      "3": "Saturn in the 3rd house is traditionally regarded as a strong placement for perseverance, steady courage and long-term effort. Natives are described as persistent and resilient.",
+      "4": "Saturn in the 4th house is traditionally associated with a sense of duty towards home and family and a preference for stability. Tradition advises nurturing warmth and comfort in the household.",
+      "5": "Saturn in the 5th house is traditionally linked with a serious, structured approach to learning and creativity. Tradition advises patience with children and students, as results come through steady effort.",
+      "6": "Saturn in the 6th house is traditionally regarded as a strong placement for overcoming obstacles through discipline and hard work. Natives are described as dutiful and dependable in service.",
+      "7": "Saturn is traditionally said to gain directional strength in the 7th house, linked with mature, committed partnerships and responsible public dealings. Tradition advises patience and loyalty in relationships.",
+      "8": "Saturn in the 8th house is traditionally associated with endurance, depth and interest in research or long-term matters. Tradition advises caution, healthy routines and steady perseverance.",
+      "9": "Saturn in the 9th house is traditionally linked with a practical, disciplined approach to faith, learning and principles. Natives are described as serious seekers who value tradition.",
+      "10": "Saturn in the 10th house is traditionally associated with a strong work ethic and a steady rise through responsibility and perseverance. Natives are described as reliable and capable of lasting achievement.",
+      "11": "Saturn in the 11th house is traditionally regarded as favourable for the gradual fulfilment of goals and lasting friendships with mature people. Natives are described as patient and persistent.",
+      "12": "Saturn in the 12th house is traditionally linked with solitude, introspection and disciplined spiritual practice. Tradition advises good rest and steady routines, especially when far from home."
+    },
+    "rahu": {
+      "1": "Rahu in the 1st house is traditionally associated with a strong drive for self-expression, an unconventional image and curiosity about new experiences. Tradition advises clarity of purpose and staying grounded.",
+      "2": "Rahu in the 2nd house is traditionally linked with unusual speech or ideas, interest in foreign languages and changing family circumstances. Tradition advises measured words and careful handling of resources.",
+      "3": "Rahu in the 3rd house is traditionally regarded as a strong placement for courage, enterprise and bold communication. Natives are described as adventurous and innovative.",
+      "4": "Rahu in the 4th house is traditionally associated with restlessness about home and a wish to change residence or surroundings. Tradition advises building inner contentment and a settled routine.",
+      "5": "Rahu in the 5th house is traditionally linked with unconventional intelligence and interest in technology or research. Tradition advises caution in risky ventures and patience with children.",
+      "6": "Rahu in the 6th house is traditionally regarded as a strong placement for overcoming competition and handling complex problems. Natives are described as shrewd and determined.",
+      "7": "Rahu in the 7th house is traditionally associated with unconventional or foreign partnerships and active public dealings. Tradition advises honesty, clarity and realistic expectations in relationships.",
+      "8": "Rahu in the 8th house is traditionally linked with intense curiosity about hidden subjects, research and sudden changes. Tradition advises caution, prudence and steady routines.",
+      "9": "Rahu in the 9th house is traditionally associated with unconventional beliefs, interest in foreign cultures and questioning of tradition. Tradition advises respect for teachers while exploring new ideas.",
+      "10": "Rahu in the 10th house is traditionally linked with strong ambition and progress in modern, public or technology-related fields. Tradition advises ethical conduct as one's position grows.",
+      "11": "Rahu in the 11th house is traditionally regarded as a favourable placement for ambitions, wide networks and support from diverse or foreign connections. Natives are described as goal-driven and resourceful.",
+      "12": "Rahu in the 12th house is traditionally associated with interest in foreign lands, spirituality and the unseen. Tradition advises good rest, moderation and mindful spending."
+    },
+    "ketu": {
+      "1": "Ketu in the 1st house is traditionally associated with an introspective, intuitive and somewhat detached personality. Tradition advises staying connected with others and with practical goals.",
+      "2": "Ketu in the 2nd house is traditionally linked with simple tastes, frank speech and detachment from material display. Tradition advises warmth in words and care in family matters.",
+      "3": "Ketu in the 3rd house is traditionally regarded as a supportive placement for courage, intuitive skill and independent effort. Natives are described as brave and self-reliant.",
+      "4": "Ketu in the 4th house is traditionally associated with inner searching and a sense of detachment from home comforts. Tradition advises creating a peaceful, supportive home environment.",
+      "5": "Ketu in the 5th house is traditionally linked with intuitive intelligence and interest in spiritual or esoteric learning. Tradition advises patience and focus in studies and creative work.",
+      "6": "Ketu in the 6th house is traditionally regarded as a strong placement for overcoming obstacles and rivals with quiet determination. Natives are described as resilient and service-minded.",
+      "7": "Ketu in the 7th house is traditionally associated with a spiritual or unconventional approach to partnership. Tradition advises clear communication and genuine involvement in relationships.",
+      "8": "Ketu in the 8th house is traditionally linked with deep intuition and interest in mysticism, research and hidden knowledge. Natives are described as perceptive and spiritually inclined.",
+      "9": "Ketu in the 9th house is traditionally associated with a personal, inward approach to faith and questioning of conventional doctrine. Natives are described as independent seekers of truth.",
+      "10": "Ketu in the 10th house is traditionally linked with dedication to work without excessive concern for recognition. Tradition advises clear goals and steady commitment in one's work.",
+      "11": "Ketu in the 11th house is traditionally regarded as favourable for the fulfilment of wishes through modest means and a small circle of close friends. Natives are described as content and selective.",
+      "12": "Ketu in the 12th house is traditionally considered a strong placement for spirituality, meditation and detachment from worldly concerns. Natives are described as contemplative and compassionate."
+    }
+  },
+  "matching_bands": {
+    "excellent": {
+      "title": "Excellent match (33–36 points)",
+      "text": "A total of 33 or more out of 36 is traditionally regarded as an excellent match. Tradition reads this as strong agreement across the eight kootas in temperament, mutual attraction and outlook."
+    },
+    "good": {
+      "title": "Good match (25–32 points)",
+      "text": "A total between 25 and 32 is traditionally regarded as a good match. Most kootas show agreement, and tradition regards the areas with fewer points as manageable through understanding and effort."
+    },
+    "average": {
+      "title": "Acceptable match (18–24 points)",
+      "text": "A total between 18 and 24 is traditionally regarded as acceptable. Tradition generally treats 18 as the minimum for approval and suggests giving attention to the kootas that scored low."
+    },
+    "low": {
+      "title": "Below the traditional threshold (under 18 points)",
+      "text": "A total below 18 is traditionally regarded as under the usual threshold for approval. Many families also consider the complete birth charts, recognised cancellation conditions and, above all, the couple's own understanding before drawing any conclusion."
+    }
+  },
+  "matching_kootas": {
+    "varna": {
+      "title": "Varna",
+      "full": "Varna, which traditionally reflects compatibility of outlook and approach to duty, receives its full point. Tradition reads this as mutual respect for each other's values.",
+      "partial": "Varna receives a partial score, traditionally read as broadly compatible outlooks with some differences in priorities.",
+      "none": "Varna receives no point. Tradition treats this as a difference in outlook or approach to duty; as the koota carries only one point, its traditional weight is small."
+    },
+    "vashya": {
+      "title": "Vashya",
+      "full": "Vashya, traditionally associated with mutual attraction and influence, receives full points, suggesting a natural ease in accommodating each other.",
+      "partial": "Vashya receives partial points, traditionally read as reasonable mutual attraction with some need for give-and-take.",
+      "none": "Vashya receives no points, traditionally read as a need for conscious effort to understand and accommodate each other's wishes."
+    },
+    "tara": {
+      "title": "Tara (Dina)",
+      "full": "Tara, traditionally associated with mutual wellbeing and fortune through the birth Nakshatras, receives full points, which tradition regards as auspicious.",
+      "partial": "Tara receives partial points: the Nakshatra count is favourable in one direction but not the other. Tradition reads this as mixed but workable.",
+      "none": "Tara receives no points, as the Nakshatra counts fall in traditionally unfavourable positions in both directions. Tradition advises patience and mutual support."
+    },
+    "yoni": {
+      "title": "Yoni",
+      "full": "Yoni, traditionally reflecting instinctive compatibility through symbolic animal pairings, receives full points, read as natural harmony.",
+      "partial": "Yoni receives partial points, traditionally read as generally compatible instincts with some differences in natural temperament.",
+      "none": "Yoni receives no points, as the symbolic animals are traditionally considered opposed. Tradition advises patience and understanding of each other's natural tendencies."
+    },
+    "graha_maitri": {
+      "title": "Graha Maitri",
+      "full": "Graha Maitri, traditionally reflecting mental compatibility through the friendship of the Moon-sign lords, receives full points, read as a strong meeting of minds.",
+      "partial": "Graha Maitri receives partial points, traditionally read as moderate mental compatibility; open conversation is advised to bridge differing outlooks.",
+      "none": "Graha Maitri receives no points, as the Moon-sign lords are traditionally unfriendly to each other. Tradition reads this as differing ways of thinking that benefit from patience and respect."
+    },
+    "gana": {
+      "title": "Gana",
+      "full": "Gana, traditionally reflecting temperament through the Deva, Manushya and Rakshasa groups, receives full points, read as well-matched natures.",
+      "partial": "Gana receives partial points, traditionally read as compatible natures with some differences in temperament and reactions.",
+      "none": "Gana receives no points, traditionally read as contrasting temperaments. Tradition advises awareness of each other's style and calm communication; this is not a judgement of either person's character."
+    },
+    "bhakoot": {
+      "title": "Bhakoot",
+      "full": "Bhakoot, traditionally reflecting family welfare and emotional bonding through the relative positions of the Moon signs, receives full points.",
+      "partial": "Bhakoot receives partial points, traditionally read as a generally supportive Moon-sign relationship.",
+      "none": "Bhakoot receives no points because the Moon signs stand in a 2/12, 5/9 or 6/8 relationship, traditionally called Bhakoot dosha. Many traditions examine cancellation conditions in the full charts before giving it weight; this report does not apply them."
+    },
+    "nadi": {
+      "title": "Nadi",
+      "full": "Nadi, which carries the highest weight of eight points, receives full points because the partners belong to different Nadi groups, which tradition considers favourable.",
+      "partial": "Nadi receives partial points, which tradition reads as a mixed result.",
+      "none": "Nadi receives no points because both partners belong to the same Nadi group, traditionally called Nadi dosha. Tradition gives this considerable weight and often examines exception conditions; it is a belief-based classification and not medical, genetic or health evidence."
+    }
+  },
+  "antardasha_title": "{antar} Antardasha in {maha} Mahadasha",
+  "antardasha_house_template": "In this chart {planet} occupies the {house} house, so these themes are traditionally expected to show most in {focus}.",
+  "transit_title": "{planet} in {sign} · {house} house from the Moon",
+  "sign_names": {
+    "1": "Mesha (Aries)",
+    "2": "Vrishabha (Taurus)",
+    "3": "Mithuna (Gemini)",
+    "4": "Karka (Cancer)",
+    "5": "Simha (Leo)",
+    "6": "Kanya (Virgo)",
+    "7": "Tula (Libra)",
+    "8": "Vrishchika (Scorpio)",
+    "9": "Dhanu (Sagittarius)",
+    "10": "Makara (Capricorn)",
+    "11": "Kumbha (Aquarius)",
+    "12": "Meena (Pisces)"
+  },
+  "house_focus": {
+    "1": "self-expression and personal initiatives",
+    "2": "family life, speech and personal values",
+    "3": "communication, courage and siblings",
+    "4": "home, the mother and inner contentment",
+    "5": "learning, creativity and children",
+    "6": "daily work, service and overcoming obstacles",
+    "7": "partnerships and dealings with others",
+    "8": "research, change and inner transformation",
+    "9": "faith, higher learning and teachers",
+    "10": "work, duty and public standing",
+    "11": "friendships, networks and aspirations",
+    "12": "spiritual life, rest and distant places"
+  },
+  "antardasha": {
+    "sun": "The Sun sub-period traditionally brings confidence, recognition and questions of authority to the fore. Tradition advises taking responsibility with humility and respecting elders and those in charge.",
+    "moon": "The Moon sub-period traditionally emphasises feelings, home life, family and contact with the public. Tradition advises nurturing relationships and keeping the mind calm.",
+    "mars": "The Mars sub-period traditionally brings energy, initiative and a wish to act decisively. Tradition advises channelling this drive into disciplined effort and avoiding haste or conflict.",
+    "mercury": "The Mercury sub-period traditionally favours learning, communication, trade and practical skills. Tradition advises study, clear communication and careful planning.",
+    "jupiter": "The Jupiter sub-period traditionally supports growth, wisdom, guidance from teachers and family blessings. Tradition regards it as favourable for study and spiritual development.",
+    "venus": "The Venus sub-period traditionally emphasises relationships, comfort, beauty and the arts. Tradition advises enjoying these blessings with balance and gratitude.",
+    "saturn": "The Saturn sub-period traditionally asks for discipline, patience and steady work, with results that come gradually. Tradition advises perseverance, service and realistic plans.",
+    "rahu": "The Rahu sub-period traditionally brings ambition, new directions and contact with unfamiliar people or places. Tradition advises clear goals and ethical choices amid change.",
+    "ketu": "The Ketu sub-period traditionally turns attention inward, towards reflection, detachment and spiritual questions. Tradition advises simplicity and letting go of what is no longer needed."
+  },
+  "gochara": {
+    "jupiter": {
+      "1": "Jupiter passing over the natal Moon is traditionally regarded as a mixed transit: it can bring new outlooks and responsibilities, while tradition advises against restlessness and hasty changes.",
+      "2": "Jupiter in the 2nd house from the Moon is traditionally regarded as a favourable transit for family harmony, thoughtful speech and steady personal values.",
+      "3": "Jupiter in the 3rd house from the Moon is traditionally regarded as less supportive, a time when plans need extra effort. Tradition advises perseverance and patience with changes.",
+      "4": "Jupiter in the 4th house from the Moon is traditionally regarded as less supportive, with added responsibilities at home. Tradition advises patience and care for domestic peace.",
+      "5": "Jupiter in the 5th house from the Moon is traditionally regarded as a favourable transit for learning, creativity, devotion and joy through children or students.",
+      "6": "Jupiter in the 6th house from the Moon is traditionally regarded as less supportive, with obstacles that call for diligence. Tradition advises moderation in habits and fairness in disputes.",
+      "7": "Jupiter in the 7th house from the Moon is traditionally regarded as a favourable transit for partnerships, social life and cooperation with others.",
+      "8": "Jupiter in the 8th house from the Moon is traditionally regarded as a demanding transit with delays in plans. Tradition advises caution, steady routines and reflection.",
+      "9": "Jupiter in the 9th house from the Moon is traditionally regarded as a very favourable transit for faith, higher learning, guidance from teachers and good fortune.",
+      "10": "Jupiter in the 10th house from the Moon is traditionally regarded as a mixed transit, bringing changes and responsibilities at work. Tradition advises ethical conduct and patience.",
+      "11": "Jupiter in the 11th house from the Moon is traditionally regarded as a favourable transit for the fulfilment of aspirations and support from friends.",
+      "12": "Jupiter in the 12th house from the Moon is traditionally regarded as less supportive, associated with expenses, travel and introspection. Tradition advises moderation in spending and time for spiritual practice."
+    },
+    "saturn": {
+      "1": "Saturn passing over the natal Moon is the central phase of Sade Sati, traditionally associated with responsibility, pressure and maturity. Tradition advises discipline, patience and good self-care.",
+      "2": "Saturn in the 2nd house from the Moon is the final phase of Sade Sati, traditionally associated with family responsibilities. Tradition advises measured speech and careful handling of resources.",
+      "3": "Saturn in the 3rd house from the Moon is traditionally regarded as a favourable transit, in which courage and persistent effort are rewarded.",
+      "4": "Saturn in the 4th house from the Moon, traditionally called Ardhashtama or Kantaka Shani, is associated with domestic responsibilities. Tradition advises patience and care for peace at home.",
+      "5": "Saturn in the 5th house from the Moon is traditionally regarded as a mixed transit in which learning and creative work require extra effort. Tradition advises patience with children and students.",
+      "6": "Saturn in the 6th house from the Moon is traditionally regarded as a favourable transit for overcoming obstacles and competition through steady work.",
+      "7": "Saturn in the 7th house from the Moon is traditionally regarded as a demanding transit for partnerships. Tradition advises patience, loyalty and calm discussion.",
+      "8": "Saturn in the 8th house from the Moon, traditionally called Ashtama Shani, is regarded as a demanding transit. Tradition advises caution, healthy routines and steady perseverance.",
+      "9": "Saturn in the 9th house from the Moon is traditionally regarded as a mixed transit that tests faith and principles. Tradition advises respect for elders and teachers.",
+      "10": "Saturn in the 10th house from the Moon is traditionally associated with a heavy workload and greater responsibility. Tradition advises ethical conduct and consistent effort.",
+      "11": "Saturn in the 11th house from the Moon is traditionally regarded as a favourable transit for the gradual fulfilment of goals through persistence.",
+      "12": "Saturn in the 12th house from the Moon is the first phase of Sade Sati, traditionally associated with introspection, expenses and distant places. Tradition advises rest, moderation and patience."
+    },
+    "rahu": {
+      "1": "Rahu over the natal Moon is traditionally associated with restlessness and strong new desires; tradition advises clarity and calm before major decisions.",
+      "2": "Rahu in the 2nd house from the Moon is traditionally linked with unsettled family matters; tradition advises measured speech and careful handling of resources.",
+      "3": "Rahu in the 3rd house from the Moon is traditionally regarded as favourable, bringing courage, initiative and success through bold effort.",
+      "4": "Rahu in the 4th house from the Moon is traditionally associated with restlessness at home; tradition advises patience and a settled routine.",
+      "5": "Rahu in the 5th house from the Moon is traditionally linked with an agitated mind in studies and creative work; tradition advises focus and patience with children.",
+      "6": "Rahu in the 6th house from the Moon is traditionally regarded as favourable for overcoming rivals, obstacles and competition.",
+      "7": "Rahu in the 7th house from the Moon is traditionally associated with complications in partnerships; tradition advises honesty and realistic expectations.",
+      "8": "Rahu in the 8th house from the Moon is traditionally regarded as a demanding transit; tradition advises caution, prudence and steady routines.",
+      "9": "Rahu in the 9th house from the Moon is traditionally linked with questioning of beliefs and tradition; tradition advises respect for teachers and elders.",
+      "10": "Rahu in the 10th house from the Moon is traditionally associated with strong ambition and changes at work; tradition advises ethical conduct.",
+      "11": "Rahu in the 11th house from the Moon is traditionally regarded as favourable for the fulfilment of ambitions and support from wide networks.",
+      "12": "Rahu in the 12th house from the Moon is traditionally linked with expenses, travel and connection with distant places; tradition advises moderation and rest."
+    },
+    "ketu": {
+      "1": "Ketu over the natal Moon is traditionally associated with introspection and a sense of detachment; tradition advises staying engaged with practical goals.",
+      "2": "Ketu in the 2nd house from the Moon is traditionally linked with frank speech and detachment in family matters; tradition advises warmth in words.",
+      "3": "Ketu in the 3rd house from the Moon is traditionally regarded as favourable, supporting courage and independent effort.",
+      "4": "Ketu in the 4th house from the Moon is traditionally associated with detachment from home comforts; tradition advises nurturing a peaceful home.",
+      "5": "Ketu in the 5th house from the Moon is traditionally linked with scattered focus in studies; tradition advises patience and steady practice.",
+      "6": "Ketu in the 6th house from the Moon is traditionally regarded as favourable for overcoming obstacles with quiet determination.",
+      "7": "Ketu in the 7th house from the Moon is traditionally associated with a sense of distance in partnerships; tradition advises clear communication and genuine involvement.",
+      "8": "Ketu in the 8th house from the Moon is traditionally regarded as a demanding transit that turns attention to hidden matters; tradition advises caution and reflection.",
+      "9": "Ketu in the 9th house from the Moon is traditionally linked with spiritual questioning and an inward approach to faith.",
+      "10": "Ketu in the 10th house from the Moon is traditionally associated with detachment from recognition at work; tradition advises clear goals and commitment.",
+      "11": "Ketu in the 11th house from the Moon is traditionally regarded as favourable for the quiet fulfilment of wishes and a small circle of close friends.",
+      "12": "Ketu in the 12th house from the Moon is traditionally regarded as supportive of spiritual practice, meditation and letting go."
+    }
+  },
+  "node_transit_title": "Rahu in {rahu_sign} ({rahu_house} house) · Ketu in {ketu_sign} ({ketu_house} house) from the Moon"
+}

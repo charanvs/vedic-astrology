@@ -1,0 +1,1 @@
+export const uiText={appName:'Vedic Astrology',subtitle:'Traditional Indian Jyotish & Panchang',welcome:'Welcome to Vedic Astrology',welcomeDescription:'Explore traditional Indian astrology through birth charts, planetary positions, Panchang and educational interpretations.'}

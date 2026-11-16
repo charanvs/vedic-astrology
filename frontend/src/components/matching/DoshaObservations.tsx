@@ -1,0 +1,5 @@
+import { AlertTriangle, CheckCircle2 } from 'lucide-react'
+import type { MatchingResult } from '../../types/api'
+import { AppCard } from '../common/AppCard'
+
+export function DoshaObservations({result}:{result:MatchingResult}){return <AppCard className="p-5 sm:p-6"><h2 className="text-xl font-bold">Traditional observations</h2><p className="mt-2 text-sm text-[var(--muted)]">Shown separately from the numerical score; no exception adds points.</p><div className="mt-5 grid gap-4 lg:grid-cols-3">{result.observations.map(item=><article key={item.id} className="rounded-2xl border border-[var(--border)] p-4"><div className="flex items-center gap-2">{item.triggered?<AlertTriangle className="size-5 text-amber-600" aria-hidden="true"/>:<CheckCircle2 className="size-5 text-emerald-600" aria-hidden="true"/>}<h3 className="font-bold">{item.name}</h3></div><p className="mt-2 text-sm font-semibold">{item.triggered?'Flagged under selected tradition':'Not flagged'}</p><p className="mt-2 text-sm leading-6 text-[var(--muted)]">{item.explanation}</p><p className="mt-2 text-xs text-[var(--muted)]">{item.triggering_rule} · Exception not evaluated</p></article>)}</div></AppCard>}

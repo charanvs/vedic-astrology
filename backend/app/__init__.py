@@ -1,0 +1,1 @@
+"""Vedic Astrology backend application."""

@@ -1,0 +1,4 @@
+import type { PanchangResult } from '../../types/api'
+
+export type PanchangElementKey='tithi'|'vara'|'nakshatra'|'yoga'|'karana'
+export function PanchangDetails({result,selected}:{result:PanchangResult;selected:PanchangElementKey}){const item=result[selected];return <section aria-live="polite" className="rounded-2xl bg-[var(--soft)] p-5"><p className="text-xs font-bold uppercase tracking-wider text-[var(--primary-strong)]">About {selected}</p><h2 className="mt-2 text-xl font-bold">{'display_name' in item?String(item.display_name):item.name}</h2><p className="mt-3 leading-7 text-[var(--muted)]">{item.explanation}</p>{selected==='nakshatra'&&<p className="mt-3 text-sm"><strong>Pada:</strong> {result.nakshatra.pada} · <strong>Lord:</strong> {result.nakshatra.lord}</p>}{selected==='karana'&&<p className="mt-3 text-sm"><strong>Half:</strong> {result.karana.half} · <strong>Tithi:</strong> {result.karana.tithi_number}</p>}</section>}

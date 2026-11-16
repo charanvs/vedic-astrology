@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-saffron-50: #fff9ed;
+  --color-saffron-700: #b45309;
+  --font-sans: "Inter", "Noto Sans Devanagari", "Noto Sans Gurmukhi", system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: light;
+  --primary: #c77722;
+  --primary-strong: #8f430b;
+  --primary-soft: #fbe9d4;
+  --background: #fff9f0;
+  --surface: #fffdfa;
+  --surface-translucent: rgba(255, 253, 250, 0.9);
+  --text: #29231f;
+  --muted: #70665f;
+  --border: #e7ddd3;
+  --soft: #f5ede5;
+  color: var(--text);
+  background: var(--background);
+  font-family: var(--font-sans);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+:root.dark {
+  color-scheme: dark;
+  --primary: #e5a04d;
+  --primary-strong: #ffc374;
+  --primary-soft: #422b1d;
+  --background: #171311;
+  --surface: #211c19;
+  --surface-translucent: rgba(33, 28, 25, 0.9);
+  --text: #f7eee6;
+  --muted: #c0b2a8;
+  --border: #433831;
+  --soft: #302824;
+}
+
+* { box-sizing: border-box; }
+html { background: var(--background); }
+body { margin: 0; min-width: 320px; min-height: 100vh; overflow-x: hidden; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button, input, select, textarea { font: inherit; }
+:focus-visible { outline: 3px solid var(--primary); outline-offset: 3px; }
+.kundli-house:focus-visible .kundli-region { stroke: var(--primary); stroke-width: 5; }
+.kundli-planet:focus-visible text { paint-order: stroke; stroke: var(--surface); stroke-width: 7; }
+
+@media print {
+  .kundli-region { fill: white; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+}

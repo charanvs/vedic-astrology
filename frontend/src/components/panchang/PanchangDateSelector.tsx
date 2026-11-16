@@ -1,0 +1,6 @@
+import { CalendarDays, ChevronLeft, ChevronRight } from 'lucide-react'
+import { addCalendarDays } from './panchangFormat'
+
+export function PanchangDateSelector({value,today,onChange}:{value:string;today:string;onChange:(value:string)=>void}){
+ return <div className="grid min-w-0 grid-cols-[2.75rem_minmax(0,1fr)_2.75rem] items-end gap-2 sm:flex sm:flex-wrap"><label className="col-span-3 min-w-0 text-sm font-bold sm:min-w-52 sm:flex-1" htmlFor="panchang-date">Panchang date<input id="panchang-date" type="date" min="1600-01-01" max="2399-12-31" value={value} onChange={event=>onChange(event.target.value)} className="mt-2 min-h-11 w-full min-w-0 rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3"/></label><button type="button" aria-label="Previous day" onClick={()=>onChange(addCalendarDays(value,-1))} className="grid size-11 place-items-center rounded-xl border border-[var(--border)]"><ChevronLeft/></button><button type="button" onClick={()=>onChange(today)} className="inline-flex min-h-11 items-center justify-center gap-2 rounded-xl border border-[var(--border)] px-3 font-semibold"><CalendarDays className="size-4"/>Today</button><button type="button" aria-label="Next day" onClick={()=>onChange(addCalendarDays(value,1))} className="grid size-11 place-items-center rounded-xl border border-[var(--border)]"><ChevronRight/></button></div>
+}

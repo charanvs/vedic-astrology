@@ -1,0 +1,1 @@
+export function MatchingError({message}:{message:string}){return <div role="alert" className="rounded-2xl border border-red-300 bg-red-50 p-5 text-red-900 dark:border-red-900 dark:bg-red-950/40 dark:text-red-100"><p className="font-bold">Matching could not be calculated</p><p className="mt-2 text-sm leading-6">{message}</p></div>}

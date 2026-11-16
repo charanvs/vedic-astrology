@@ -1,0 +1,13 @@
+"""initial users locations birth profiles"""
+from alembic import op
+import sqlalchemy as sa
+revision="20261112_01";down_revision=None;branch_labels=None;depends_on=None
+opts={"mysql_engine":"InnoDB","mysql_charset":"utf8mb4","mysql_collate":"utf8mb4_unicode_ci"}
+def upgrade():
+ op.create_table("users",sa.Column("id",sa.Integer(),primary_key=True),sa.Column("full_name",sa.String(150),nullable=False),sa.Column("email",sa.String(255),nullable=True),sa.Column("is_active",sa.Boolean(),nullable=False,server_default="1"),sa.Column("created_at",sa.DateTime(),nullable=False),sa.Column("updated_at",sa.DateTime(),nullable=False),sa.UniqueConstraint("email"),**opts)
+ op.create_table("locations",sa.Column("id",sa.Integer(),primary_key=True),sa.Column("city",sa.String(150),nullable=False),sa.Column("state",sa.String(150)),sa.Column("country",sa.String(150),nullable=False),sa.Column("country_code",sa.String(2)),sa.Column("latitude",sa.Numeric(10,7),nullable=False),sa.Column("longitude",sa.Numeric(10,7),nullable=False),sa.Column("timezone",sa.String(100),nullable=False),sa.Column("created_at",sa.DateTime(),nullable=False),sa.CheckConstraint("latitude BETWEEN -90 AND 90",name="ck_locations_latitude"),sa.CheckConstraint("longitude BETWEEN -180 AND 180",name="ck_locations_longitude"),**opts)
+ op.create_index("ix_locations_city","locations",["city"]);op.create_index("ix_locations_timezone","locations",["timezone"]);op.create_index("ix_locations_city_country","locations",["city","country"])
+ op.create_table("birth_profiles",sa.Column("id",sa.Integer(),primary_key=True),sa.Column("user_id",sa.Integer()),sa.Column("full_name",sa.String(150),nullable=False),sa.Column("birth_date",sa.Date(),nullable=False),sa.Column("birth_time",sa.Time(),nullable=True),sa.Column("birth_time_unknown",sa.Boolean(),nullable=False,server_default="0"),sa.Column("location_id",sa.Integer(),nullable=False),sa.Column("notes",sa.Text()),sa.Column("created_at",sa.DateTime(),nullable=False),sa.Column("updated_at",sa.DateTime(),nullable=False),sa.CheckConstraint("birth_time_unknown = 1 OR birth_time IS NOT NULL",name="ck_birth_profiles_known_time"),sa.ForeignKeyConstraint(["user_id"],["users.id"],ondelete="SET NULL"),sa.ForeignKeyConstraint(["location_id"],["locations.id"],ondelete="RESTRICT"),**opts)
+ for name,cols in (("ix_birth_profiles_user_id",["user_id"]),("ix_birth_profiles_full_name",["full_name"]),("ix_birth_profiles_location_id",["location_id"]),("ix_birth_profiles_name_date",["full_name","birth_date"])):op.create_index(name,"birth_profiles",cols)
+def downgrade():
+ op.drop_table("birth_profiles");op.drop_table("locations");op.drop_table("users")
